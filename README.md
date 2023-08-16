@@ -7,13 +7,11 @@ This repository contains a basic example of a SOAP web service and client implem
 
 ## Server
 The server-side of this project demonstrates the creation of a SOAP web service. It follows the steps outlined in the tutorial:
-- [Step-by-step SOAP web services example in Java using Eclipse](https://www.theserverside.com/video/Step-by-step-SOAP-web-services-example-in-Java-using-Eclipse)
-  - Cameron McKenzie, TechTarget
+- [Step-by-step SOAP web services example in Java using Eclipse](https://www.theserverside.com/video/Step-by-step-SOAP-web-services-example-in-Java-using-Eclipse) by Cameron McKenzie, TechTarget
 
 ## Client
 The client-side of this project showcases how to consume a SOAP web service using JAX-WS. The process is explained in the video:
-- [Introducing SOAP and JAX-WS](https://youtu.be/fE1pVSiXNkU)
-  - Virtual Pair Programmers
+- [Introducing SOAP and JAX-WS](https://youtu.be/fE1pVSiXNkU) by Virtual Pair Programmers
 
 ## Prerequisites
 - Eclipse IDE
