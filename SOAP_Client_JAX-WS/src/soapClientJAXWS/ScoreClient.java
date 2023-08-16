@@ -49,9 +49,11 @@ public class ScoreClient {
         JLabel winsLabel = new JLabel();    
         winsLabel.setHorizontalAlignment(JLabel.CENTER);  
         winsLabel.setVerticalAlignment(JLabel.CENTER);
+        
         JLabel lossesLabel = new JLabel();        
         lossesLabel.setHorizontalAlignment(JLabel.CENTER);
         lossesLabel.setVerticalAlignment(JLabel.CENTER);
+        
         JLabel tiesLabel = new JLabel();
         tiesLabel.setHorizontalAlignment(JLabel.CENTER);
         tiesLabel.setVerticalAlignment(JLabel.CENTER);
