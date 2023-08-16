@@ -1,9 +1,5 @@
 # SOAP-JAXWS
-A simple SOAP Service and Client, based on JAX-WS.
-Developed in Eclipse, using Java 1.8 (8) and WildFly 10.x
-
-## Description
-This repository contains a basic example of a SOAP web service and client implemented using Java's JAX-WS technology. The project is set up to work with Eclipse as the development environment and utilizes Java 1.8 and WildFly 10.x for server deployment.
+A simple SOAP Service and Client, based on JAX-WS. Developed in Eclipse, using Java 1.8 (8) and WildFly 10.x
 
 ## Server
 The server-side of this project demonstrates the creation of a SOAP web service. It follows the steps outlined in the tutorial:
